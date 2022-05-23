@@ -1,1 +1,1 @@
-# TokenPAd
+# TokenPad - $TPAD
